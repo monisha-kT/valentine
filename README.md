@@ -1,4 +1,4 @@
-# Valentine Website for Priyadharsan
+# Valentine Website
 
 This is a single-page romantic website built with React (via CDN) and plain HTML/CSS/JS, ready to deploy on Netlify.
 
