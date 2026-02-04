@@ -1,0 +1,9 @@
+{
+  "name": "valentine-priyadharsan",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Single-page Valentine website",
+  "scripts": {
+    "dev": "npx http-server -p 5173"
+  }
+}
